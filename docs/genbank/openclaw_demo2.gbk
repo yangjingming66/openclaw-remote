@@ -1,0 +1,18 @@
+LOCUS       OPENCLAW_DEMO1      12 bp DNA  linear  V1.0
+DEFINITION  Demo genome for SnapGene visualization
+ACCESSION   OPENCLAW_DEMO001
+VERSION     OPENCLAW_DEMO001.1.0
+/GAP       0
+SOURCE      synthetic
+  ORGANISM  synthetic
+COMMENT     Auto-generated for visualization in SnapGene-compatible viewers
+FEATURES             Location/Qualifiers
+     gene            1..12
+                     /note="demo_gene"
+     CDS            2..10
+                     /note="demo_cds"
+                     /protein_id="PD-001"
+                     /translation="MKT"
+ORIGIN
+        1ATGCGTACGTAG
+//
